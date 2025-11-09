@@ -2,8 +2,6 @@
 
 This repository contains the B.Tech Mini Project for our "Eco-Smart Agriculture" platform, developed at Pillai College of Engineering (2023-24).
 
-* **Team:** Shagufta Varsi, Pranali Baviskar, Shraddha Singh
-* **Supervisor:** Dr. Mimi Cherian
 
 ---
 
